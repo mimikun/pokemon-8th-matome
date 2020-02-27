@@ -1,5 +1,7 @@
 # mimikunのポケモン第八世代(剣盾)のリポジトリ
 
+Switchフレコ: 6026-7815-6215  
+
 - currydex-unregistered.md
   - カレー図鑑(未登録のやつ)
 - currydex-unregistered.txt
